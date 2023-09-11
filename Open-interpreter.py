@@ -12,11 +12,11 @@ print(f"{BLUE}***********************************************{ENDC}")
 print("\n\n")  # Add two empty lines
 
 import interpreter
+
 interpreter.auto_run = True
 interpreter.local = True
 #interpreter.model = "gpt-3.5-turbo"
 #interpreter.api_key = "your_openai_api_key"
-
 
 while True:
     print(f"{RED}You:{ENDC}", end="")
