@@ -42,6 +42,15 @@ Welcome to the Open-Interpreter Inference project. This guide will walk you thro
    - Post-launch of the `.bat` file, the interface should be up and running.
    - Engage with the Command Line Interface (CLI) for a streamlined user experience.
 
----
+## Screenshots
+
+### Chatgpt
+
+![App Screenshot](https://github.com/Himanshu8881212/Open-Interpreter/assets/134622172/ecdc78bc-bba4-4eb6-a34a-c0cc2f6f2ba8)
+
+### llama2
+
+![App Screenshot](https://github.com/Himanshu8881212/Open-Interpreter/assets/134622172/ecdc78bc-bba4-4eb6-a34a-c0cc2f6f2ba8)
+
 
 For any challenges, please refer back to this guide. Your feedback and contributions are always welcome!
