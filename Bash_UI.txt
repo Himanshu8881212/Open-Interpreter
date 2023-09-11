@@ -1,0 +1,10 @@
+@echo off
+
+REM Navigate to the directory containing your virtual environment
+cd /d E:\Llama\llama2
+
+REM Activate the virtual environment
+call .\Scripts\activate
+
+REM Run the Python script
+python E:\Llama\llama2\model\bob.py
