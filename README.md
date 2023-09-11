@@ -50,7 +50,7 @@ Welcome to the Open-Interpreter Inference project. This guide will walk you thro
 
 ### llama2
 
-![App Screenshot](https://github.com/Himanshu8881212/Open-Interpreter/assets/134622172/ecdc78bc-bba4-4eb6-a34a-c0cc2f6f2ba8)
+![App Screenshot](https://github.com/Himanshu8881212/Open-Interpreter/assets/134622172/62f0b8ca-1a16-4b56-8023-9c67204a18e3)
 
 
 For any challenges, please refer back to this guide. Your feedback and contributions are always welcome!
